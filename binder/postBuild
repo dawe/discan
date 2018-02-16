@@ -1,5 +1,5 @@
-jupyter nbextension     enable --py --sys-prefix appmode
-jupyter serverextension enable --py --sys-prefix appmode
+jupyter nbextension     enable --py  appmode
+jupyter serverextension enable --py  appmode
 
 
 jupyter trust discan.ipynb
